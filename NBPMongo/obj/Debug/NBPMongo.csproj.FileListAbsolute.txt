@@ -1,0 +1,204 @@
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojResolveAssemblyReference.cache
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Form1.resources
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.Cache
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+c:\users\natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Natalija\documents\visual studio 2015\Projects\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojAssemblyReference.cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Form1.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.CoreCompileInputs.cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.CopyComplete
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Form1.resources
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Natalija\Desktop\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.Cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojAssemblyReference.cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.CoreCompileInputs.cache
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.CopyComplete
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Maca\Desktop\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.FormNoviPrestupnik.resources
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.FormNoviPrestupnik.resources
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\nbpmongo1\NBPMongo1\NBPMongo1\NBPMongo\NBPMongo\obj\Debug\NBPMongo.IzvestajDetaljno.resources
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojAssemblyReference.cache
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.IzvestajDetaljno.resources
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.cache
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.CoreCompileInputs.cache
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.CopyComplete
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.IzvestajDetaljno.resources
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.Cache
+C:\Users\Maca\Desktop\NBPMongo\NBPMongo\obj\Debug\NBPMongo.DodajRoditelja.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\NBPMongo.pdb
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\DnsClient.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\System.Buffers.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\DnsClient.xml
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.AdminView.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.DodajRoditelja.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.IzvestajDetaljno.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Login.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.Properties.Resources.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.ZaposleniView.resources
+C:\Users\Natalija\Desktop\bongomongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\nbpmongo\NBPMongo\NBPMongo\obj\Debug\NBPMongo.DodajRoditelja.resources
+C:\Users\Natalija\Desktop\nbp-domaci-zadatak-3\NBP domaci zadatak 3\NBPMongo\NBPMongo\bin\Debug\NBPMongo.exe.config
+C:\Users\Natalija\Desktop\nbp-domaci-zadatak-3\NBP domaci zadatak 3\NBPMongo\NBPMongo\obj\Debug\NBPMongo.exe
+C:\Users\Natalija\Desktop\nbp-domaci-zadatak-3\NBP domaci zadatak 3\NBPMongo\NBPMongo\obj\Debug\NBPMongo.pdb
